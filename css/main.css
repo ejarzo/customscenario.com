@@ -259,6 +259,8 @@ a:hover {
 }
 #mc_embed_signup #mc-embedded-subscribe:hover{
     color: #f2f2f2;
+    border-color: #f2f2f2;
+
     background-color: #1D1C1B;
 }
 
