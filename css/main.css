@@ -204,33 +204,33 @@ a:hover {
 }
 
 #mc_embed_signup {
-    font:14px; 
-    width:400px;
-    height: 50px;
-    color: #333;
+    font:14px !important; 
+    width:400px !important;
+    height: 50px !important;
+    color: #333 !important;
 }
 
 #mc_embed_signup .email{
-    height: 58px;
-    font-size: 25px;
-    display: inline;
-    clear: none;
-    padding: 8px;
-    width: 300px;
-    border: 5px solid #1D1C1B;
-    background-color: #ddd;
+    height: 58px !important;
+    font-size: 25px !important;
+    display: inline !important;
+    clear: none !important;
+    padding: 8px !important;
+    width: 300px !important;
+    border: 5px solid #1D1C1B !important;
+    background-color: #ddd !important;
 }
 
 #mc_embed_signup .button{
-    transition: .5s;
-    padding: 0 5px;
-    font-size: 50px;
-    color: #F2F2F2;
-    text-decoration: none;
-    background: #1D1C1B;
-    border: 0;
-    border-top: 0px solid transparent;
-    border-bottom: 0px solid transparent;
+    transition: .5s !important;
+    padding: 0 5px !important;
+    font-size: 50px !important;
+    color: #F2F2F2 !important;
+    text-decoration: none !important;
+    background: #1D1C1B !important;
+    border: 0 !important;
+    border-top: 0px solid transparent !important;
+    border-bottom: 0px solid transparent !important;
 }
 
 #mc_embed_signup .button:hover{
