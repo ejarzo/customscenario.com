@@ -211,6 +211,8 @@ a:hover {
     text-align: left;*/
 }
 #mc_embed_signup #mce-EMAIL{
+    font-family: 'Inconsolata', monospace;
+
    /* height: 58px;
     font-size: 25px;
     display: inline;
@@ -229,6 +231,8 @@ a:hover {
     -moz-animation: AnimationName 90s ease infinite;
     -o-animation: AnimationName 90s ease infinite;
     animation: AnimationName 90s ease infinite;*/
+
+    border-radius: 0;
     border: 0;
     border-bottom: 2px solid #111;
     font-size: 16px;
@@ -253,6 +257,14 @@ a:hover {
     background-color: #f2f2f2;
     color: #1D1C1B;
     border: 5px solid #1D1C1B;*/
+    -webkit-transition: 0s ;
+    -moz-transition: 0s;
+    -o-transition: 0s; 
+    transition: 0s;
+
+    font-size: 14px;
+    color: #111;
+    border-radius: 0;
     background-color: #fff;
     border: 2px solid #111;
 }
