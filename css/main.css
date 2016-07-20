@@ -248,7 +248,12 @@ a:hover {
 @media only screen and (max-width: 470px) {
     .background {
         margin: 0;
-        height:100vh;
+    }
+}
+
+@media only screen and (min-height: 370px) {
+    .background {
+        height: 100%;
     }
 }
 
